@@ -1,3 +1,3 @@
 # Haniph Calendar
-Calendar system for haniph with Facilities todo, calendar
-Haniph Calendar developed by Alireza Kefayati
+### Calendar system for haniph with Facilities todo, calendar. 
+### Haniph Calendar developed by Alireza Kefayati with laravel, vue.js, flutter
